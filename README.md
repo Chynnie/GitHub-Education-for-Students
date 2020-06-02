@@ -1,5 +1,5 @@
 # GitHub-Education-for-Students
-GITHUB EDUCATION FOR STUDENTS
+
 
 # Introduction
 Have you ever heard or come across “GitHub Education for Students”? Well, some of you may have heard of this exclusive program GitHub has created for students aspiring to grow in the tech field, while some may have not. Therefore, for those who may not have heard of this wonderful program which I found exciting to share, it might interest you know that as a student, you can use GitHub to work on your school projects with real-world developer tools that will make your projects impressive and stand out in such a way that it can be presentable and acceptable in the tech industry. Not only that, GitHub has also prepared platforms and ways to guide you to be successful in this journey and have also partnered with big tech companies that have made their real-world developer tools freely accessible to students.
