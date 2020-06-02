@@ -1,4 +1,4 @@
-# GitHub-Education-for-Students
+# GitHub-Education-For-Students
 
 
 # Introduction
